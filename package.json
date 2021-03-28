@@ -1,7 +1,6 @@
 {
-  "name": "lernacommon",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@wibily/lernacommon",
+  "version": "1.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
